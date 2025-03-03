@@ -6,7 +6,7 @@ ATAK &amp; WinTAK Iconset from The National Alliance for Public Safety in collab
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
 
 ## SOURCE
-Github: [NAPSG/DHS-Symbol-Server](https://github.com/NAPSG/DHS-Symbol-Server)
+Github: [NAPSG/DHS-Symbol-Server](https://github.com/NAPSG/DHS-Symbol-Server) <br>
 Official Site: [National Alliance for Public Safety - Geographic Information System Symbol Library](https://www.napsgfoundation.org/all-resources/symbology-library/)
 
 ### ABOUT
@@ -16,9 +16,9 @@ Official Site: [National Alliance for Public Safety - Geographic Information Sys
 - UID added
 
 ##### Updates To-Do
-- Create 64px version for larger displays
-- Create XML files for each iconset
-- Include documentation from NAPSG relevant to icon use
+- [ ] Create 64px version for larger displays
+- [ ] Create XML files for each iconset
+- [ ] Include documentation from NAPSG relevant to icon use
 
 #### CONTACT
 dsec_0x00@protonmail.com
