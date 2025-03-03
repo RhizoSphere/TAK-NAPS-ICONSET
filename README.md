@@ -16,9 +16,9 @@ Official Site: [National Alliance for Public Safety - Geographic Information Sys
 - UID added
 
 ##### Updates To-Do
-- Create 64px version for larger displays
-- Create XML files for each iconset
-- Include documentation from NAPSG relevant to icon use
+- [ ] Create 64px version for larger displays
+- [ ] Create XML files for each iconset
+- [ ] Include documentation from NAPSG relevant to icon use
 
 #### CONTACT
 dsec_0x00@protonmail.com
